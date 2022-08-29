@@ -34,4 +34,5 @@ document.getElementById('Name').onkeypress = function(event){
 
 
 console.log('HELLO, KATE!');
+console.log('DO I HAVE PERMISION?');
 
